@@ -1,0 +1,8 @@
+Title: Getting started with embedded systems programming 
+
+(pretty cool option for the different sections)
+
+0. printf( 'Introduction \n' );
+1. print 'What's an embedded system?'
+2. std::cout << What's a computer program? << std::endl;
+
