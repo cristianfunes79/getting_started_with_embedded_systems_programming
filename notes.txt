@@ -3,6 +3,21 @@ Title: Getting started with embedded systems programming
 (pretty cool option for the different sections)
 
 0. printf( 'Introduction \n' );
+
 1. print 'What's an embedded system?'
+
 2. std::cout << What's a computer program? << std::endl;
+
+3. Software and Hardware
+3.1. Fimrware
+
+4. Concepts about electronics
+4.1. Basic circuits
+4.2. Analog and digital
+4.3. Integrated circuits
+
+5. Microcontrollers
+5.1. Development Boards
+
+?. IDEs and Text Editors
 
